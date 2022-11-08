@@ -1,0 +1,20 @@
+0001,Dac nhan tam,Dale Carnegie,Simon and Schuster
+1936 1
+0002,The 7 Habits of Highly Effective People,Stephen R. Covey,Free Press
+1989 1
+0003,Tuoi tho du doi,Phung Quan,Phung Quan
+1988 0
+0004,Chien tranh va hoa binh,Lev Nikolayevich Tolstoy,Russki Vestnik
+1986 1
+0005,Bo gia,Mario Puzo,G. P. Putnam's Sons
+1945 1
+0006,Nhung nguoi khon kho,Victor Hugo,Verboeckhoven & Ce
+1862 0
+0007,Ong gia va bien ca,Ernest Hemingway,Charles Scribner's Sons
+1952 0
+0008,Dieu ky dieu cua tiem tap hoa Namiya,Higashino Keigo,Kadokawa Shoten
+2012 1
+0009,Suoi nguon,Ayn Rand,Bobbs-Merrill Company
+1943 0
+0010,Catsby vi dai,F. Scott Fitzgerald,Charles Scribner's Sons
+1925 1
